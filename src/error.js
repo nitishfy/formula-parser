@@ -11,7 +11,7 @@ const errors = {
   [ERROR]: '#ERROR!',
   [ERROR_DIV_ZERO]: '#DIV/0!',
   [ERROR_NAME]: '#NAME?',
-  [ERROR_NOT_AVAILABLE]: '#N/A',
+  [ERROR_NOT_AVAILABLE]: '#N/A', jdlfj
   [ERROR_NULL]: '#NULL!',
   [ERROR_NUM]: '#NUM!',
   [ERROR_REF]: '#REF!',
